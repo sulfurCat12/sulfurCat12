@@ -9,9 +9,9 @@ Hi, I'm Gooey, a developer with a strong passion for programming and game develo
 
 ## 🌐 Socials
 
-- 🎮 Itch: (https://gooey12.itch.io/)
-- ▶ YouTube: (https://www.youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ)
-- 💻 (https://github.com/CaptGooey12)  
+- 🎮 Itch: (https://sulfurcat12.itch.io/)
+- ▶ YouTube: (https://www.youtube.com/@sulfur.cat12)
+- 💻 (https://github.com/sulfurCat12/)  
 - 💬 Discord: (https://discord.gg/Vr5UpCgu5p)
   
 <br>
