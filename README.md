@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/GooeyBanner.png"> 
-
 <a href="#"><img src="https://komarev.com/ghpvc/?username=Gooey12&label=Visitors" /></a>
 <a href="https://gooey12.vercel.app"><img src="https://img.shields.io/badge/Gooey12-blue" /></a> <img src="https://img.shields.io/badge/OS-Windows-Windows?logo=windows&labelColor=gray&logoColor=white&color=007ec6"/>
 
@@ -13,18 +11,6 @@ Hi, I'm Gooey, a developer with a strong passion for programming and game develo
 - ▶️ YouTube: (https://www.youtube.com/@sulfur.cat12)
 - 💻 Github: (https://github.com/sulfurCat12/)  
 - 💬 Discord: (https://discord.gg/Vr5UpCgu5p)
-  
-<br>
-
-**Contact Me:**
-- ✉ Email: gooey0012@gmail.com
-- 🗨 Discord: @gooey12/CaptGooey#2511
-  
-<br>
-
-<p align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Send%20Me%20Email-007ec6?style=for-the-badge&logo"/></a>
-</p>
 
 <br>
 
