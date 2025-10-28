@@ -34,7 +34,7 @@ Here's some programming languages, tools and frameworks that I use:
 <br>
 
 ## 📶 GitHub Status
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooey12&layout=compact&theme=tokyonight&hide=css)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gooey12&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfurCat12&layout=compact&theme=tokyonight&hide=css)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sulfurCat12&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 <br>
-![Status](https://github-readme-stats.vercel.app/api?username=Gooey12&theme=tokyonight&show_icons=true)
+![Status](https://github-readme-stats.vercel.app/api?username=sulfurCat12&theme=tokyonight&show_icons=true)
